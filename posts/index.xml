@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on ADA Öffentliche Verwaltung</title>
-    <link>ada-oeffentliche-verwaltung.github.io/website/posts/</link>
+    <link>ada-oeffentliche-verwaltung.github.io/posts/</link>
     <description>Recent content in Posts on ADA Öffentliche Verwaltung</description>
     <image>
       <title>ADA Öffentliche Verwaltung</title>
-      <url>ada-oeffentliche-verwaltung.github.io/website/papermod-cover.png</url>
-      <link>ada-oeffentliche-verwaltung.github.io/website/papermod-cover.png</link>
+      <url>ada-oeffentliche-verwaltung.github.io/papermod-cover.png</url>
+      <link>ada-oeffentliche-verwaltung.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 24 Jul 2023 19:30:00 +0200</lastBuildDate><atom:link href="ada-oeffentliche-verwaltung.github.io/website/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jul 2023 19:30:00 +0200</lastBuildDate><atom:link href="ada-oeffentliche-verwaltung.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modul 1: Einführung, Problemerfassung und Daten verstehen</title>
-      <link>ada-oeffentliche-verwaltung.github.io/website/posts/modul1/</link>
+      <link>ada-oeffentliche-verwaltung.github.io/posts/modul1/</link>
       <pubDate>Mon, 24 Jul 2023 19:30:00 +0200</pubDate>
       
-      <guid>ada-oeffentliche-verwaltung.github.io/website/posts/modul1/</guid>
+      <guid>ada-oeffentliche-verwaltung.github.io/posts/modul1/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas suscipit finibus libero. Etiam tempor tellus eu mauris mollis, eu finibus quam pulvinar.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Modul 2: Umgang mit Arbeitsumgebung, Software und Datenanalyse</title>
-      <link>ada-oeffentliche-verwaltung.github.io/website/posts/modul2/</link>
+      <link>ada-oeffentliche-verwaltung.github.io/posts/modul2/</link>
       <pubDate>Mon, 24 Jul 2023 19:29:00 +0200</pubDate>
       
-      <guid>ada-oeffentliche-verwaltung.github.io/website/posts/modul2/</guid>
+      <guid>ada-oeffentliche-verwaltung.github.io/posts/modul2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas suscipit finibus libero. Etiam tempor tellus eu mauris mollis, eu finibus quam pulvinar. Proin dapibus tincidunt sem vel convallis. In imperdiet nibh ex, nec varius sapien viverra iaculis. Sed aliquet bibendum leo eget ultricies. Curabitur ornare mollis mauris. Nulla est massa, finibus sed iaculis non, iaculis porttitor velit. Maecenas vitae neque in mi tristique lobortis. Curabitur non orci mattis, hendrerit erat et, porttitor diam.</description>
     </item>
     
     <item>
       <title>Modul 3: Nachvollziehbares Reporting, Visualisierung und Dashboards</title>
-      <link>ada-oeffentliche-verwaltung.github.io/website/posts/modul3/</link>
+      <link>ada-oeffentliche-verwaltung.github.io/posts/modul3/</link>
       <pubDate>Mon, 24 Jul 2023 19:28:00 +0200</pubDate>
       
-      <guid>ada-oeffentliche-verwaltung.github.io/website/posts/modul3/</guid>
+      <guid>ada-oeffentliche-verwaltung.github.io/posts/modul3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas suscipit finibus libero. Etiam tempor tellus eu mauris mollis, eu finibus quam pulvinar. Proin dapibus tincidunt sem vel convallis. In imperdiet nibh ex, nec varius sapien viverra iaculis. Sed aliquet bibendum leo eget ultricies. Curabitur ornare mollis mauris. Nulla est massa, finibus sed iaculis non, iaculis porttitor velit. Maecenas vitae neque in mi tristique lobortis. Curabitur non orci mattis, hendrerit erat et, porttitor diam.</description>
     </item>
     
     <item>
       <title>Modul 4: Ergebnisse in bestehende Prozesse einbauen, Operationalisieren und rechtlicher Rahmen</title>
-      <link>ada-oeffentliche-verwaltung.github.io/website/posts/modul4/</link>
+      <link>ada-oeffentliche-verwaltung.github.io/posts/modul4/</link>
       <pubDate>Mon, 24 Jul 2023 19:27:00 +0200</pubDate>
       
-      <guid>ada-oeffentliche-verwaltung.github.io/website/posts/modul4/</guid>
+      <guid>ada-oeffentliche-verwaltung.github.io/posts/modul4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas suscipit finibus libero. Etiam tempor tellus eu mauris mollis, eu finibus quam pulvinar. Proin dapibus tincidunt sem vel convallis. In imperdiet nibh ex, nec varius sapien viverra iaculis. Sed aliquet bibendum leo eget ultricies. Curabitur ornare mollis mauris. Nulla est massa, finibus sed iaculis non, iaculis porttitor velit. Maecenas vitae neque in mi tristique lobortis. Curabitur non orci mattis, hendrerit erat et, porttitor diam.</description>
     </item>
     
     <item>
       <title>Das Team hinter ADA Öffentliche Verwaltung</title>
-      <link>ada-oeffentliche-verwaltung.github.io/website/posts/team/</link>
+      <link>ada-oeffentliche-verwaltung.github.io/posts/team/</link>
       <pubDate>Mon, 24 Jul 2023 19:00:00 +0200</pubDate>
       
-      <guid>ada-oeffentliche-verwaltung.github.io/website/posts/team/</guid>
+      <guid>ada-oeffentliche-verwaltung.github.io/posts/team/</guid>
       <description>Wir sind ein Team von der LMU München.
 Unser Ziel ist es,
 Prof. Dr. Frauke Kreuter Frauke Kreuter ist Professorin am Institut für Statistik der Ludwig-Maximilians-Universität München. ihre Forschungsinteressen liegen in den Bereichen . Dr. Heidi Seibold Heidi Seibold ist eine Solopreneure mit einem Fokus auf Open and Reproducible Research und unabhängige Wissenschaftlerin bei IGDORE. Sie ist eine Co-Gründerin von Open Science Freelancers. Dr. Malte Schierholz Malte Schierholz ist Postdoktorand am Lehrstuhl für Statistik und Data Science für die Sozial- und Geisteswissenschaften an der Ludwig-Maximilians-Universität München.</description>
